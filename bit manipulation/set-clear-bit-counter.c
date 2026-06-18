@@ -20,5 +20,4 @@ l:
     printf("\n");
     printf("the no of set bits = %d\n",m);
     printf("the no of clear bits = %d",n);
-getchar();
 }
